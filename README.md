@@ -1,5 +1,5 @@
 # DLFR
-Distinctive  Landmarks-based  Face  Recognition 
+Distinctive Landmarks-based Face Recognition 
 
 ## Update
 In this repo, we will put the dataset and source code for our DLFR model.
