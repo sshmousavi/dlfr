@@ -12,4 +12,4 @@ Mousavi, S., Charmi, M., & Hassanpoor, H. (2021). A distinctive landmark-based f
 Mousavi, S., Charmi, M. & Hassanpoor, H. Recognition of identical twins based on the most distinctive region of the face: Human criteria and machine processing approaches. Multimed Tools Appl 80, 15765–15802 (2021). https://doi.org/10.1007/s11042-020-10360-3
 
 # Contact
-If you have any questions, do not hesitate to contact us by `sshmousavi1@gmail.com`, we will be happy to assist.
+If you have any questions, do not hesitate to contact us by `ssh.mousavi1@gmail.com`, we will be happy to assist.
